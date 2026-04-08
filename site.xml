@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/id.ac.ui.cs.prices.umldop.to.ifmldop.feature_1.0.0.202604080829.jar" id="id.ac.ui.cs.prices.umldop.to.ifmldop.feature" version="1.0.0.202604080829">
+      <category name="UML-DOP-IFML-DOP"/>
+   </feature>
+   <category-def name="UML-DOP-IFML-DOP" label="UML-DOP-IFML-DOP">
+      <description>
+         UML-DOP-IFML-DOP Transformation Tools
+      </description>
+   </category-def>
+</site>
