@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/id.ac.ui.cs.prices.umldop.to.ifmldop.feature_1.0.0.202605311307.jar" id="id.ac.ui.cs.prices.umldop.to.ifmldop.feature" version="1.0.0.202605311307">
+   <feature url="features/id.ac.ui.cs.prices.umldop.to.ifmldop.feature_1.0.0.202605311546.jar" id="id.ac.ui.cs.prices.umldop.to.ifmldop.feature" version="1.0.0.202605311546">
       <category name="UML-DOP-TO-IFML-DOP"/>
    </feature>
    <category-def name="UML-DOP-TO-IFML-DOP" label="UML-DOP-TO-IFML-DOP"/>
